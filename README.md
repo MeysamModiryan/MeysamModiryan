@@ -3,6 +3,6 @@
 - 👀 I’m interested in:
 -  * __*Optimization*__: *(Mathematical Optimization and Metaheuristics)*
 -  * __*Machine Learning*__
-- 🌱 I’m currently learning *Deep Learning and Optimization on it*
+- 🌱 I’m currently working on *Deep Learning and Optimization on it*
 
 
